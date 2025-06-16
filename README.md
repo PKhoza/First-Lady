@@ -1,3 +1,3 @@
 # First-Lady
-She think's Code!
+She Think's Code!
 
